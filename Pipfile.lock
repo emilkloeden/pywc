@@ -1,0 +1,138 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "35822e06d76f5898d4b7b33bc7ff74afbd30bd950e9fc811c3819b3e9b3a2124"
+        },
+        "requires": {},
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "click": {
+            "version": "==6.7"
+        }
+    },
+    "develop": {
+        "alabaster": {
+            "version": "==0.7.10"
+        },
+        "argh": {
+            "version": "==0.26.2"
+        },
+        "asn1crypto": {
+            "version": "==0.22.0"
+        },
+        "babel": {
+            "version": "==2.4.0"
+        },
+        "bumpversion": {
+            "version": "==0.5.3"
+        },
+        "certifi": {
+            "version": "==2017.4.17"
+        },
+        "cffi": {
+            "version": "==1.10.0"
+        },
+        "chardet": {
+            "version": "==3.0.3"
+        },
+        "coverage": {
+            "version": "==4.4.1"
+        },
+        "cryptography": {
+            "version": "==1.9"
+        },
+        "docutils": {
+            "version": "==0.13.1"
+        },
+        "flake8": {
+            "version": "==3.3.0"
+        },
+        "idna": {
+            "version": "==2.5"
+        },
+        "imagesize": {
+            "version": "==0.7.1"
+        },
+        "jinja2": {
+            "version": "==2.9.6"
+        },
+        "markupsafe": {
+            "version": "==1.0"
+        },
+        "mccabe": {
+            "version": "==0.6.1"
+        },
+        "pathtools": {
+            "version": "==0.1.2"
+        },
+        "pip": {
+            "version": "==9.0.1"
+        },
+        "pluggy": {
+            "version": "==0.4.0"
+        },
+        "py": {
+            "version": "==1.4.34"
+        },
+        "pycodestyle": {
+            "version": "==2.3.1"
+        },
+        "pycparser": {
+            "version": "==2.17"
+        },
+        "pyflakes": {
+            "version": "==1.5.0"
+        },
+        "pygments": {
+            "version": "==2.2.0"
+        },
+        "pytest": {
+            "version": "==3.1.1"
+        },
+        "pytz": {
+            "version": "==2017.2"
+        },
+        "pyyaml": {
+            "version": "==3.12"
+        },
+        "requests": {
+            "version": "==2.17.3"
+        },
+        "setuptools": {
+            "version": "==36.0.1"
+        },
+        "six": {
+            "version": "==1.10.0"
+        },
+        "snowballstemmer": {
+            "version": "==1.2.1"
+        },
+        "sphinx": {
+            "version": "==1.6.2"
+        },
+        "sphinxcontrib-websupport": {
+            "version": "==1.0.1"
+        },
+        "tox": {
+            "version": "==2.7.0"
+        },
+        "urllib3": {
+            "version": "==1.21.1"
+        },
+        "virtualenv": {
+            "version": "==15.1.0"
+        },
+        "watchdog": {
+            "version": "==0.8.3"
+        },
+        "wheel": {
+            "version": "==0.29.0"
+        }
+    }
+}
